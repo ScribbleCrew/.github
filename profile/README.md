@@ -1,7 +1,8 @@
 ## astroo devs??????? meh
 
 ```haxe
-class Main
+// i swear if this doesn't work... 😡🤬😠
+class Developers
 {
   static final devs:Array<String> = ["YourfriendOrbl"];
 
@@ -9,9 +10,8 @@ class Main
   {
     for (i => dev in devs)
     {
-      trace(dev);
+      trace('$dev - $i');
     }
   }
 }
 ```
-i swear if this doesn't work... 😡🤬😠
