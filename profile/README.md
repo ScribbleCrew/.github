@@ -30,7 +30,7 @@ class Developers
 
 	private static function loopTrace(stat:GrabType = NOTHING):Void
 	{
-		var traceText = '\n';
+		var traceText:String = '\n';
 		final width:Int = 40;
 		final line:String = repeat("-", width);
 
