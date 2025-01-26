@@ -1,8 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Scribble+Crew%2C+meh...)](https://git.io/typing-svg)
----
-
-## **Example**:
-```haxe
 // i swear if this doesn't work... 😡🤬😠
 typedef ListType =
 {
@@ -78,14 +73,3 @@ class Developers
 	private static inline function repeat(char:String, amount:Int):String
 		return [for (_ in 0...amount) char].join("");
 }
-```
-
-## **Returns**:
-```haxe
-/*
-                Developers
-----------------------------------------
-|        YourFriendOrbl (Owner)        |
-----------------------------------------
-*/
-```
